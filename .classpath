@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/C-_apache-tomcat-7.0.109"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/ojdbc6_g.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/catalina.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/ecj-4.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/jasper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/jasper-el.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/tomcat7-websocket.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/tomcat-i18n-de.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/tomcat-i18n-ko.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/tomcat-i18n-ru.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/tomcat-i18n-zh-CN.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91742/eclipse-workspace/BusTicket/websocket-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
